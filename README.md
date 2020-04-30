@@ -1,7 +1,9 @@
 # springercsbooks
 
-<b>purpose<b>: download springer books related to computer science which are made available for free by springer.com
+PURPOSE: download springer books related to computer science which are made available for free by springer.com
 
-language: python 3
+LANGUAGE: python 3
 
-module-requirements: bs4, requests, PyPDF2, io, urllib3
+MODULE REQUIREMENTS: beautifulsoup4, requests, PyPDF2, io, urllib3
+
+Just run the code and get the books.
